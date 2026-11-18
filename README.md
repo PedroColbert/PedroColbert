@@ -34,7 +34,7 @@ Conecto problemas de negócio à engenharia de software, integrações e automa�
 
 **Soluções corporativas** — desenvolvimento de sistemas e automações para processos empresariais, incluindo solicitações e aprovações do RH, integrações de inventário e customizações de relatórios de ERP.
 
-**Automação de recuperação do ERP** — desenvolvimento de scripts para automatizar procedimentos técnicos do DRP, com foco em execução estruturada, rastreabilidade e redução de trabalho manual.
+**Automação de recuperação do ERP** — procedimentos técnicos do DRP automatizados com PowerShell. O mesmo procedimento passou de aproximadamente 6h para 1h30: redução de 75% e economia aproximada de 4h30 por execução.
 
 **IA no ciclo de desenvolvimento** — utilização de agentes de programação em atividades de planejamento, implementação, investigação de problemas e validação, com responsabilidade sobre as decisões técnicas.
 
