@@ -43,7 +43,7 @@ Conecto problemas de negócio à engenharia de software, integrações e automa�
 | Projeto | Descrição |
 | --- | --- |
 | [**Portfólio interativo**](https://github.com/PedroColbert/pedro-colbert-portfolio) | Currículo online com experiências interativas e apresentação de projetos, construído com Vite, TypeScript e animações. [Ver site](https://pedrocolbert.github.io/pedro-colbert-portfolio/) |
-| [**Portfólio Alessandra Colbert**](https://github.com/PedroColbert/alessandra-colbert-portfolio) | Site de portfólio responsivo, com galerias, navegação e transições, desenvolvido a partir de material de referência. |
+| [**Portfólio Alessandra Colbert**](https://github.com/PedroColbert/alessandra-colbert-portfolio) | Portfólio profissional desenvolvido por mim para Alessandra Colbert, com layout responsivo, galerias interativas, animações e navegação por seções. |
 
 > Parte dos meus projetos profissionais envolve sistemas internos e não possui código-fonte público.
 
